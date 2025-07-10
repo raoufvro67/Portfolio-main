@@ -33,7 +33,7 @@ const projects = [
     liveLink: '',
     sourceLink: '',
     paragraph:
-      "react-racing-bars is a data visualization tool that creates bar charts over timeframes. It can be used for generating animated infographs based on 3D data structure. It's published as an npm package and can be installed on any react project using `npm i react-racing-bars`command.",
+      'Vacation est un jeu vidéo de type Monopoly développé avec Godot. Il remplace les rues par des pays, et permet de jouer à plusieurs. Le projet inclut une interface interactive, des animations, des paramètres personnalisables, et une logique de jeu automatisée.'
   },
   {
     media: [
