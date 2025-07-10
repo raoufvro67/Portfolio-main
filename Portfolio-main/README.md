@@ -1,51 +1,37 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Portfolio de Raouf 
 
-# Portfolio
-My personal portfolio
+Bienvenue sur mon portfolio en ligne !  
+Ce site présente mes projets, compétences et mon parcours professionnel.
 
+---
 
-> I am going to create my first repoitory of Microverse program on github. It's going to be fun.
+## Description
 
-![screenshot](Demo.png)
+Ce portfolio a été développé en **HTML**, **CSS** et **JavaScript**.  
+Il met en avant mes réalisations dans le développement web ainsi que mon CV.
 
-Additional description about the project and its features.
+---
 
-## Built With
+## Fonctionnalités
 
-- HTML
-- CSS
+- Présentation personnelle et bio
+- Liste de projets avec descriptions et liens
+- Section contact
+- Design responsive (adapté mobile et desktop)
 
-## Live Demo
+---
 
-[Live Demo Link](https://behnam1369.github.io/Portfolio/index.html)
+## Mise en ligne
 
+Le site est hébergé gratuitement via **GitHub Pages** et accessible à l’adresse :  
+`https://raoufvro67.github.io/nom-du-repo`
 
+---
 
-## Authors
+## Modifier le portfolio
 
-👤 **Behnam Aghaali**
+Pour modifier ce portfolio :
 
-- GitHub: [https://github.com/Behnam1369](https://github.com/Behnam1369)
-- LinkedIn: [https://www.linkedin.com/in/behnam-aghaali](https://www.linkedin.com/in/behnam-aghaali)
-- Twitter: [https://twitter.com/behnamagh1369](https://twitter.com/behnamagh1369)
-
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+1. Cloner le dépôt :  
+   ```bash
+   git clone https://github.com/raoufvro67/nom-du-repo.git
