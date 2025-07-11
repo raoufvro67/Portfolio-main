@@ -33,7 +33,7 @@ const projects = [
     liveLink: '',
     sourceLink: '',
     paragraph:
-      'Vacashion est un jeu vidéo de type Monopoly développé avec Godot. Il remplace les rues par des pays, et permet de jouer à plusieurs. Le projet inclut une interface interactive, des animations, des paramètres personnalisables, et une logique de jeu automatisée.'
+      'Vacashion is a Monopoly-style video game developed with Godot. It replaces streets with countries and supports multiplayer gameplay. The project includes an interactive interface, animations, customizable settings, and automated game logic.'
   },
   {
     media: [
