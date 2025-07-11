@@ -33,7 +33,7 @@ const projects = [
     liveLink: '',
     sourceLink: '',
     paragraph:
-      'Vacation est un jeu vidéo de type Monopoly développé avec Godot. Il remplace les rues par des pays, et permet de jouer à plusieurs. Le projet inclut une interface interactive, des animations, des paramètres personnalisables, et une logique de jeu automatisée.'
+      'Vacashion est un jeu vidéo de type Monopoly développé avec Godot. Il remplace les rues par des pays, et permet de jouer à plusieurs. Le projet inclut une interface interactive, des animations, des paramètres personnalisables, et une logique de jeu automatisée.'
   },
   {
     media: [
