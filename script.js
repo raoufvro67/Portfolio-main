@@ -27,11 +27,11 @@ const projects = [
     ],
     title: 'vacashion',
     client: 'School Project',
-    role: 'Front-end Developer',
+    role: 'Back-end Developer',
     year: '2025',
-    tags: ['GODOT','Python', 'PostgreSQL',],
+    tags: ['GODOT','Python', 'PostgreSQL','GdScript'],
     liveLink: '',
-    sourceLink: '',
+    sourceLink: 'https://github.com/raoufvro67/vacashion',
     paragraph:
       'Vacashion is a Monopoly-style video game developed with Godot. It replaces streets with countries and supports multiplayer gameplay. The project includes an interactive interface, animations, customizable settings, and automated game logic.'
   },
@@ -51,15 +51,15 @@ const projects = [
   },
   {
     media: [
-      { type: 'image', src: 'images/virtual-notebook.png' },
+      { type: 'image', src: 'images/thinkboard.png' },
       
     ],
-    title: 'Virtual Notebook',
+    title: 'ThinkBoard',
     client: 'Personal Project',
-    role: 'Frontend developer',
+    role: 'Full Stack developer',
     year: '2023',
     tags: ['React', 'Redux', 'Javascript'],
-    liveLink: '',
+    liveLink: 'https://main-thinkpboard.onrender.com/',
     sourceLink: '',
     paragraph:
       'A note keeper application inspired by notion. Users can add notes with specific marksowns into multiple pages.',
