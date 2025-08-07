@@ -43,7 +43,7 @@ const projects = [
     client: 'School project',
     role: 'Frontend developer',
     year: '2025',
-    tags: ['Power BI', 'Python', 'PostgreSQL', 'React.js', 'Excel'],
+    tags: ['Python', 'PostgreSQL', 'React.js', 'Excel'],
     liveLink: '',
     sourceLink: '',
     paragraph:
@@ -58,7 +58,7 @@ const projects = [
     client: 'Personal Project',
     role: 'Full Stack developer',
     year: '2023',
-    tags: ['React', 'Redux', 'Javascript'],
+    tags: ['React', 'Render', 'Javascript','MongoDb','Express','Node'],
     liveLink: 'https://main-thinkpboard.onrender.com/',
     sourceLink: '',
     paragraph:
@@ -66,20 +66,6 @@ const projects = [
   },
 
 
-  {
-    media: [
-      { type: 'image', src: 'images/proboard.png' },
-    ],
-    title: 'ProBoard',
-    client: 'School project',
-    role: 'Frontend Developer',
-    year: '2024',
-    tags: ['HTML', 'CSS', 'Figma', 'POstgres','Python'],
-    liveLink: '',
-    sourceLink: '',
-    paragraph:
-      'ProBoard is a project initially built as part of a university course. It is a collaborative dashboard designed to help teams manage group work efficiently. Users can organize tasks, track project progress, and assign responsibilities within a shared workspace, making teamwork more structured and transparent.',
-  },
 
   {
     media: [
