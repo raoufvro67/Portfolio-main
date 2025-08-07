@@ -57,7 +57,7 @@ const projects = [
     title: 'ThinkBoard',
     client: 'Personal Project',
     role: 'Full Stack developer',
-    year: '2023',
+    year: '2025',
     tags: ['React', 'Render', 'Javascript','MongoDb','Express','Node'],
     liveLink: 'https://main-thinkpboard.onrender.com/',
     sourceLink: '',
